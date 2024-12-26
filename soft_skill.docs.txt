@@ -1,0 +1,29 @@
+ 
+- name - My name is manish.
+
+- Qualification - I have completed BCA  From saurashtra university.
+
+- location - I am From Jetpur.
+
+- family - I am belog to a nuclear family.
+
+- Hobby - Gaming , Listening Song .
+
+- goal -  My short term goal is getting a job in reputed company and long term goal is to achive a good position there.
+
+- key personality - creativity , analytical skill and problem solving 
+
+- skill - problem -solving - ability resolve coding issues effectively . 
+              web devlopment - html , css 
+              fremeworks  - codelgniter , laravel 
+              database management - mysql  
+
+looking for jon in php technology 
+
+t am a veey hardworking and dedicated person
+            
+
+
+
+ 
+ 
